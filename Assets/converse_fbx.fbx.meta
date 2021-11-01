@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 0801a4449b62a2a4a8eb759f8d855390
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: conv_tongue
+    100002: converse
+    100004: converse_1
+    100006: //RootNode
+    100008: laces
+    100010: lConv
+    100012: rivet1
+    100014: rivet10
+    100016: rivet11
+    100018: rivet12
+    100020: rivet13
+    100022: rivet14
+    100024: rivet15
+    100026: rivet16
+    100028: rivet2
+    100030: rivet3
+    100032: rivet4
+    100034: rivet5
+    100036: rivet6
+    100038: rivet7
+    100040: rivet8
+    100042: rivet9
+    100044: Symmetry
+    400000: conv_tongue
+    400002: converse
+    400004: converse_1
+    400006: //RootNode
+    400008: laces
+    400010: lConv
+    400012: rivet1
+    400014: rivet10
+    400016: rivet11
+    400018: rivet12
+    400020: rivet13
+    400022: rivet14
+    400024: rivet15
+    400026: rivet16
+    400028: rivet2
+    400030: rivet3
+    400032: rivet4
+    400034: rivet5
+    400036: rivet6
+    400038: rivet7
+    400040: rivet8
+    400042: rivet9
+    400044: Symmetry
+    2100000: No Name
+    2100002: Mat.1
+    2100004: Mat
+    2300000: conv_tongue
+    2300002: converse
+    2300004: converse_1
+    2300006: laces
+    2300008: rivet1
+    2300010: rivet10
+    2300012: rivet11
+    2300014: rivet12
+    2300016: rivet13
+    2300018: rivet14
+    2300020: rivet15
+    2300022: rivet16
+    2300024: rivet2
+    2300026: rivet3
+    2300028: rivet4
+    2300030: rivet5
+    2300032: rivet6
+    2300034: rivet7
+    2300036: rivet8
+    2300038: rivet9
+    3300000: conv_tongue
+    3300002: converse
+    3300004: converse_1
+    3300006: laces
+    3300008: rivet1
+    3300010: rivet10
+    3300012: rivet11
+    3300014: rivet12
+    3300016: rivet13
+    3300018: rivet14
+    3300020: rivet15
+    3300022: rivet16
+    3300024: rivet2
+    3300026: rivet3
+    3300028: rivet4
+    3300030: rivet5
+    3300032: rivet6
+    3300034: rivet7
+    3300036: rivet8
+    3300038: rivet9
+    4300000: rivet1
+    4300002: rivet2
+    4300004: rivet3
+    4300006: rivet4
+    4300008: rivet5
+    4300010: rivet6
+    4300012: rivet7
+    4300014: rivet8
+    4300016: rivet9
+    4300018: rivet10
+    4300020: rivet11
+    4300022: rivet12
+    4300024: rivet13
+    4300026: rivet14
+    4300028: rivet15
+    4300030: rivet16
+    4300032: converse_1
+    4300034: converse
+    4300036: conv_tongue
+    4300038: laces
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

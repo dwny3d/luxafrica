@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: bd3123a387c3a9b409905318b18c59c2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: details
+    100002: details1
+    100004: details1_2
+    100006: details_2
+    100008: details_3
+    100010: details_4
+    100012: rope
+    100014: rope2
+    100016: rope2_2
+    100018: rope_2
+    100020: //RootNode
+    100022: shoes1
+    100024: shoes2
+    100026: sole1
+    100028: sole1_2
+    100030: Subdivision_Surface
+    100032: Subdivision_Surface_10
+    100034: Subdivision_Surface_2
+    100036: Subdivision_Surface_3
+    100038: Subdivision_Surface_4
+    100040: Subdivision_Surface_5
+    100042: Subdivision_Surface_6
+    100044: Subdivision_Surface_7
+    100046: Subdivision_Surface_8
+    100048: Subdivision_Surface_9
+    400000: details
+    400002: details1
+    400004: details1_2
+    400006: details_2
+    400008: details_3
+    400010: details_4
+    400012: rope
+    400014: rope2
+    400016: rope2_2
+    400018: rope_2
+    400020: //RootNode
+    400022: shoes1
+    400024: shoes2
+    400026: sole1
+    400028: sole1_2
+    400030: Subdivision_Surface
+    400032: Subdivision_Surface_10
+    400034: Subdivision_Surface_2
+    400036: Subdivision_Surface_3
+    400038: Subdivision_Surface_4
+    400040: Subdivision_Surface_5
+    400042: Subdivision_Surface_6
+    400044: Subdivision_Surface_7
+    400046: Subdivision_Surface_8
+    400048: Subdivision_Surface_9
+    2100000: No Name
+    2300000: details1
+    2300002: details1_2
+    2300004: details_2
+    2300006: details_4
+    2300008: rope
+    2300010: rope2
+    2300012: rope2_2
+    2300014: rope_2
+    2300016: sole1
+    2300018: sole1_2
+    3300000: details1
+    3300002: details1_2
+    3300004: details_2
+    3300006: details_4
+    3300008: rope
+    3300010: rope2
+    3300012: rope2_2
+    3300014: rope_2
+    3300016: sole1
+    3300018: sole1_2
+    4300000: sole1
+    4300002: rope2
+    4300004: details1
+    4300006: details_2
+    4300008: rope
+    4300010: sole1_2
+    4300012: rope2_2
+    4300014: details1_2
+    4300016: details_4
+    4300018: rope_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

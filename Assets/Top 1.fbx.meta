@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: e416f7b8d76b68a4a8bb6c399e7f8e2c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Array
+    100002: Cube_1
+    100004: Cube_2
+    100006: Cube_3
+    100008: Cube_4
+    100010: Cube_5
+    100012: Cylinder
+    100014: Cylinder_1
+    100016: Dress_5_obj
+    100018: dress_stand
+    100020: Pattern2D_1097516
+    100022: Pattern2D_1097520
+    100024: Pattern2D_2680897
+    100026: Pattern2D_2680898
+    100028: Pattern2D_2690458
+    100030: Pattern2D_2690459
+    100032: Pattern2D_2700845
+    100034: Pattern2D_2782197
+    100036: Pattern2D_778109
+    100038: Pattern2D_778114
+    100040: //RootNode
+    100042: Top_1_obj
+    400000: Array
+    400002: Cube_1
+    400004: Cube_2
+    400006: Cube_3
+    400008: Cube_4
+    400010: Cube_5
+    400012: Cylinder
+    400014: Cylinder_1
+    400016: Dress_5_obj
+    400018: dress_stand
+    400020: Pattern2D_1097516
+    400022: Pattern2D_1097520
+    400024: Pattern2D_2680897
+    400026: Pattern2D_2680898
+    400028: Pattern2D_2690458
+    400030: Pattern2D_2690459
+    400032: Pattern2D_2700845
+    400034: Pattern2D_2782197
+    400036: Pattern2D_778109
+    400038: Pattern2D_778114
+    400040: //RootNode
+    400042: Top_1_obj
+    2100000: No Name
+    2100002: Vest_FRONT_770385
+    2100004: Edge_FRONT_2946344
+    2300000: Cube_1
+    2300002: Cube_2
+    2300004: Cube_3
+    2300006: Cube_4
+    2300008: Cube_5
+    2300010: Cylinder
+    2300012: Cylinder_1
+    2300014: Pattern2D_1097516
+    2300016: Pattern2D_1097520
+    2300018: Pattern2D_2680897
+    2300020: Pattern2D_2680898
+    2300022: Pattern2D_2690458
+    2300024: Pattern2D_2690459
+    2300026: Pattern2D_2700845
+    2300028: Pattern2D_2782197
+    2300030: Pattern2D_778109
+    2300032: Pattern2D_778114
+    3300000: Cube_1
+    3300002: Cube_2
+    3300004: Cube_3
+    3300006: Cube_4
+    3300008: Cube_5
+    3300010: Cylinder
+    3300012: Cylinder_1
+    3300014: Pattern2D_1097516
+    3300016: Pattern2D_1097520
+    3300018: Pattern2D_2680897
+    3300020: Pattern2D_2680898
+    3300022: Pattern2D_2690458
+    3300024: Pattern2D_2690459
+    3300026: Pattern2D_2700845
+    3300028: Pattern2D_2782197
+    3300030: Pattern2D_778109
+    3300032: Pattern2D_778114
+    4300000: Cube_5
+    4300002: Cube_4
+    4300004: Cube_3
+    4300006: Cube_2
+    4300008: Cube_1
+    4300010: Cylinder
+    4300012: Cylinder_1
+    4300014: Pattern2D_2690459
+    4300016: Pattern2D_2690458
+    4300018: Pattern2D_2680898
+    4300020: Pattern2D_2680897
+    4300022: Pattern2D_2782197
+    4300024: Pattern2D_2700845
+    4300026: Pattern2D_778109
+    4300028: Pattern2D_778114
+    4300030: Pattern2D_1097516
+    4300032: Pattern2D_1097520
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
